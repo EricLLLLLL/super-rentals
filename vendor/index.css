@@ -1,0 +1,11 @@
+.jumbo img {
+    height: 200px;
+    position: relative;
+    top: 100px;
+    right: -20px;
+  }
+
+  body {
+    background: #0000;
+  }
+  
